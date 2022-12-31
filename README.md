@@ -1,9 +1,9 @@
 ## Hi, I’m Nikita! 
 
----I'm just a 18 yo student, who dreams of travelling around the world🌎<br/> 
----I love learning everything connected with math and IT 💻<br/>
----2023 goal: more codeforces and more C#/C++ pet-projects🎯<br/>
----I'm looking to collaborate to improve programmming skills together✌<br/>
+- I'm just a 18 yo student, who dreams of travelling around the world🌎<br/> 
+- I love learning everything connected with math and IT 💻<br/>
+- Goals: more codeforces and more C#/C++ pet-projects🎯<br/>
+- I'm looking to collaborate to improve programmming skills together✌<br/>
 
 ---
 ##Tools:
@@ -18,12 +18,10 @@
 
 ---
 ## Connect with me:
-[![website](https://vk.com/torchpochmak)
-[![website]](https://t.me/TorchPochmak)
-&nbsp;&nbsp;
+[![website(.img/tg.svg)](https://t.me/TorchPochmak)
 <br/>
 
 ---
 <summary>:GitHub Activity</summary>
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TorchPochmak&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-![Image alt](./img/nightsky.png)
+[![Image alt](./img/nightsky.png)]
