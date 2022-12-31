@@ -18,10 +18,10 @@
 
 ---
 ## Connect with me:
-[![website(.img/tg.svg)](https://t.me/TorchPochmak)]
+![website(.img/tg.svg)](https://t.me/TorchPochmak)
 <br/>
 
 ---
 <summary>:GitHub Activity</summary>
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TorchPochmak&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-[![Image alt](./img/nightsky.png)]
+![Image alt](./img/nightsky.png)
