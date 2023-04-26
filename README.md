@@ -1,6 +1,6 @@
 ## Hi, I’m Nikita! 
 
-- I'm just a 18 yo student, who dreams of travelling around the world🌎<br/> 
+- I'm just a 19 yo student, who dreams of travelling around the world🌎<br/> 
 - I love learning everything connected with math and IT 💻<br/>
 - Goals: more codeforces and more C#/C++ pet-projects🎯<br/>
 - I'm looking to collaborate to improve programmming skills together✌<br/>
