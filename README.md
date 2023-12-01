@@ -1,10 +1,5 @@
 ## Hi, I’m Nikita! 
 
-- I'm just a 19 yo student, who dreams of travelling around the world🌎<br/> 
-- I love learning everything connected with math and IT 💻<br/>
-- Goals: more codeforces and more C#/C++ projects🎯<br/>
-- I'm looking to collaborate to improve programmming skills together✌<br/>
-
 ---
 ## Tools:
 <img align="left" alt="Unity" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" style="padding-right:10px;" />
