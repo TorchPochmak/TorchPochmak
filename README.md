@@ -1,4 +1,4 @@
-## Hi, I’m Nikita! 
+## Hey, I’m Nikita! 
 
 ---
 ## Tools:
